@@ -1,2 +1,2 @@
-# Postgrad_AI_Data_Modeling
+# Analysis and Prediction of Diamond Prices 💎
  
